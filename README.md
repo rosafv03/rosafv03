@@ -1,6 +1,6 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px">, soy Rosa Flores</h1> 
 <div align="center"> <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="130"></div> </br>
-<h4 align="center">Bach. Ingeniería de Sistemas y desarolladora Frontend.</h4>
+<h4 align="center">Bachiller en Ingeniería de Sistemas y desarolladora Frontend.</h4>
 
 Soy un egresada del Bootcamp de Laboratoria🎓. Soy una entusiasta de la tecnología💻 😃apasionada por seguir aprendiendo y trabajar con nuevas tecnologías. Me encanta solucionar problemas a través de la tecnología creando productos interesantes y sorprendentes que tengan un gran propósito.🌟
 
